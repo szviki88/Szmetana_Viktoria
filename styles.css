@@ -1,0 +1,50 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+    margin: 0px;
+    background-repeat: no-repeat;
+   background-color: whitesmoke;
+    font-size: 25px;
+    color: black;
+}
+h1{
+    color: purple;
+}
+header{
+    text-align: center;
+    padding: 10px;
+   
+}
+.topnav{
+    overflow: hidden;
+    background-color: black;
+}
+.topnav a{
+    float: left;
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px, 12px;
+    text-decoration: none;
+     
+}
+.topnav a:hover{
+    color: blueviolet;
+}
+.center{
+    text-align: center;
+    color: black;
+}
+table{
+    width: auto;
+    margin: auto;
+    margin-left: auto;
+}
+.right{
+    float: right;
+    margin-left: auto;
+    display: block;
+    
+}
